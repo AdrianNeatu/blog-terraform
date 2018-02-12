@@ -1,1 +1,5 @@
+# Terraform
+.terraform/
+
+# JetBrains
 .idea/
